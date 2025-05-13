@@ -41,7 +41,7 @@ This project demonstrates how to simulate and analyze an A/B experiment aimed at
 ---
 
 ## 📁 Files in this Repository  
-- `data_generator.py`: script to create the synthetic dataset  
-- `ab_test_analysis.ipynb`: full A/B test analysis and visualizations  
+- `Ab test meditation push - data generation.ipynb`: script to create the synthetic dataset  
+- `ab_test_meditation_push.ipynb`: full A/B test analysis and visualizations  
 - `requirements.txt`: list of required Python libraries  
 - `README.md`: project documentation  
